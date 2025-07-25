@@ -63,7 +63,6 @@ I'm a motivated and technically skilled individual passionate about crafting cle
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amoakodomson25&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoakodomson25&theme=dark&hide_border=false" alt="GitHub Streak" width="47%"/>
 </p>
 
