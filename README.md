@@ -60,6 +60,21 @@ I'm a motivated and technically skilled individual passionate about crafting cle
 - 🌐 GitHub: [@amoakodomson25](https://github.com/amoakodomson25)
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amoakodomson25&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoakodomson25&theme=default&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoakodomson25&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+</p>
+
+---
 
 ## 📌 Goals
 
