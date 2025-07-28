@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Amoako Domson Wahab
 
-🎓 B.Sc. Statistics (Major) & Computer Science (Minor)  
 💻 Full-Stack Developer | 🎨 UI/UX Designer | 🔧 IT Support Specialist  
 📍 Accra, Ghana | 📅 Open to work and remote opportunities
 
@@ -16,7 +15,6 @@ I'm a motivated and technically skilled individual passionate about crafting cle
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
@@ -41,9 +39,9 @@ I'm a motivated and technically skilled individual passionate about crafting cle
 
 ## 📘 Education
 
-- 🎓 **University of Ghana** – B.Sc. in Statistics (Major), Computer Science (Minor) *(2022–Present)*
-- 🎓 **Kofi Annan Centre of Excellence in ICT** – Certificate in Software Development *(2022–2023)*
-- 🎓 **ALX Africa** – Front-End Web Development *(2025–Present)*
+- 🎓 **University of Ghana** – B.Sc. in Statistics (Major), Computer Science (Minor) 
+- 🎓 **Kofi Annan Centre of Excellence in ICT** – Certificate in Software Development
+- 🎓 **ALX Africa** – Front-End Web Development 
 - 🏫 **Presbyterian Boys’ Secondary School** – General Science with Elective ICT
 
 ---
@@ -58,13 +56,6 @@ I'm a motivated and technically skilled individual passionate about crafting cle
 
 - 📧 Email: [amodom132@gmail.com](mailto:amodom132@gmail.com)
 - 🌐 GitHub: [@amoakodomson25](https://github.com/amoakodomson25)
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoakodomson25&theme=dark&hide_border=false" alt="GitHub Streak" width="47%"/>
-</p>
 
 ---
 
