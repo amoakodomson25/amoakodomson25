@@ -1,7 +1,9 @@
 # 👋 Hi there, I'm Amoako Domson Wahab
 
 💻 Full-Stack Developer | 🎨 UI/UX Designer | 🔧 IT Support Specialist  
-📍 Accra, Ghana | 📅 Open to work and remote opportunities
+📍 Accra, Ghana 
+📅 Open to work and remote opportunities
+
 
 ---
 
