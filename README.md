@@ -57,7 +57,7 @@ I'm a motivated and technically skilled individual passionate about crafting cle
 ## 🔗 Connect with Me
 
 - 📧 Email: [amodom132@gmail.com](mailto:amodom132@gmail.com)
-- 🌐 GitHub: [@amoakodomson25](https://github.com/amoakodomson25)
+
 
 ---
 
